@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#ffffff</color>
+    <color name="Secondary">#bfbfbf</color>
+    <color name="Text">#333333</color>
+
+    <color name="Icon">#404040</color>
+    <color name="Image">#000000</color>
+    <color name="Photo">#000000</color>
+</resources>
